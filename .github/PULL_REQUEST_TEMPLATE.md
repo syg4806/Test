@@ -7,7 +7,7 @@
 - [ ] Did you add **assignees** appropriately?
 - [ ] Did you update the **fix-version** of BTS according to the branch?
 
-[The target branch is release/x.x](?template=RELEASE_TEMPLATE.md)
+If it target `release/x.x`, [change to the release template](?template=RELEASE_TEMPLATE.md)
 
 Confirm `coding conventions`, `typo`, `warnings`, `unit test` and `sanity check` too.  
 PR Check restart : All / `test this please`, Specified / `retest auto-test`  
