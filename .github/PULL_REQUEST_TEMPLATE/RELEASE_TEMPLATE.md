@@ -1,16 +1,8 @@
 ## :pencil: Summary
 -  SUMMARY_HERE 
 
-## :warning: Release Checklist
-- [ ] Is the change to fix the **bug**?
-- [ ] Do you have **roll back plan**?
-- [ ] Do you check the BTS status?
-  - [ ] Fix version
-  - [ ] Type
-  - [ ] Status
-  - [ ] QA Label
-
 ## :warning: Checklist
+- [ ] Is the change to `fix a bug` or `a minor request of UI`?
 - [ ] Did you **test** this changes on device?
 - [ ] Did you set the **target branch**(release/x.x`) rightly?
 - [ ] Did you add **assignees** appropriately?
